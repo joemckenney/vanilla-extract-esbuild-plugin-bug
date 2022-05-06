@@ -1,19 +1,19 @@
-[35m@bodo/button:build: [0mcache hit, replaying output [2m6a64b529fb930f14[0m
-[35m@bodo/button:build: [0mCLI Building entry: src/index.tsx
-[35m@bodo/button:build: [0mCLI Using tsconfig: tsconfig.json
-[35m@bodo/button:build: [0mCLI tsup v5.12.6
-[35m@bodo/button:build: [0mCLI Using tsup config: /home/joe/repos/vanilla-extract-esbuild-plugin-bug/packages/@bodo/button/tsup.config.ts
-[35m@bodo/button:build: [0mCLI Target: node12
-[35m@bodo/button:build: [0mCLI Cleaning output folder
-[35m@bodo/button:build: [0mESM Build start
-[35m@bodo/button:build: [0mCJS Build start
-[35m@bodo/button:build: [0mESM ⚡️ Build success in 26ms
-[35m@bodo/button:build: [0mCJS ⚡️ Build success in 25ms
-[35m@bodo/button:build: [0mESM dist/index.mjs     149.00 B
-[35m@bodo/button:build: [0mESM dist/index.css     90.00 B
-[35m@bodo/button:build: [0mESM dist/index.mjs.map 532.00 B
-[35m@bodo/button:build: [0mESM dist/index.css.map 312.00 B
-[35m@bodo/button:build: [0mCJS dist/index.js      776.00 B
-[35m@bodo/button:build: [0mCJS dist/index.css     90.00 B
-[35m@bodo/button:build: [0mCJS dist/index.js.map  546.00 B
-[35m@bodo/button:build: [0mCJS dist/index.css.map 312.00 B
+[32m@bodo/button:build: [0mcache hit, replaying output [2m571ade4706b50c7f[0m
+[32m@bodo/button:build: [0mCLI Building entry: src/index.tsx
+[32m@bodo/button:build: [0mCLI Using tsconfig: tsconfig.json
+[32m@bodo/button:build: [0mCLI tsup v5.12.6
+[32m@bodo/button:build: [0mCLI Using tsup config: /home/joe/repos/vanilla-extract-esbuild-plugin-bug/packages/@bodo/button/tsup.config.ts
+[32m@bodo/button:build: [0mCLI Target: node12
+[32m@bodo/button:build: [0mCLI Cleaning output folder
+[32m@bodo/button:build: [0mESM Build start
+[32m@bodo/button:build: [0mCJS Build start
+[32m@bodo/button:build: [0mESM ⚡️ Build success in 26ms
+[32m@bodo/button:build: [0mCJS ⚡️ Build success in 25ms
+[32m@bodo/button:build: [0mESM dist/index.mjs     149.00 B
+[32m@bodo/button:build: [0mESM dist/index.css     90.00 B
+[32m@bodo/button:build: [0mESM dist/index.mjs.map 532.00 B
+[32m@bodo/button:build: [0mESM dist/index.css.map 312.00 B
+[32m@bodo/button:build: [0mCJS dist/index.css     90.00 B
+[32m@bodo/button:build: [0mCJS dist/index.js      776.00 B
+[32m@bodo/button:build: [0mCJS dist/index.css.map 312.00 B
+[32m@bodo/button:build: [0mCJS dist/index.js.map  546.00 B
