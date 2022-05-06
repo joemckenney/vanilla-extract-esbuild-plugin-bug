@@ -1,0 +1,12 @@
+[35m@bodo/modal:format: [0mcache hit, replaying output [2m98bdaf23cdff1802[0m
+[35m@bodo/modal:format: [0m.eslintrc.js 88ms
+[35m@bodo/modal:format: [0m.prettierrc.js 4ms
+[35m@bodo/modal:format: [0mjest.config.js 5ms
+[35m@bodo/modal:format: [0mpackage.json 31ms
+[35m@bodo/modal:format: [0mREADME.md 42ms
+[35m@bodo/modal:format: [0msrc/index.css.ts 436ms
+[35m@bodo/modal:format: [0msrc/index.example.md 18ms
+[35m@bodo/modal:format: [0msrc/index.test.ts 8ms
+[35m@bodo/modal:format: [0msrc/index.tsx 59ms
+[35m@bodo/modal:format: [0mtsconfig.json 7ms
+[35m@bodo/modal:format: [0mtsup.config.ts 11ms

@@ -1,0 +1,152 @@
+{
+  "comment": "This is an auto-generated file, it keeps track of whats been built. This is a local file, don't store this in version control.",
+  "packages": {
+    "packages/config#build": {
+      "lastModified": 1649693410566.4727,
+      "status": "succeeded",
+      "haveCheckedForRerun": true,
+      "rerun": false,
+      "command": "build"
+    },
+    "packages/bodo/@bodo/packages/button#build": {
+      "lastModified": 1645679229397.4075,
+      "status": "succeeded",
+      "haveCheckedForRerun": false,
+      "rerun": true,
+      "command": "build"
+    },
+    "packages/bodo/@bodo/packages/textfield#build": {
+      "lastModified": 1645679155820.7417,
+      "status": "succeeded",
+      "haveCheckedForRerun": false,
+      "rerun": true,
+      "command": "build"
+    },
+    "packages/bodo/@bodo/packages/checkbox#build": {
+      "lastModified": 1645679155924.0752,
+      "status": "succeeded",
+      "haveCheckedForRerun": false,
+      "rerun": true,
+      "command": "build"
+    },
+    "packages/bodo/@bodo/packages/switch#build": {
+      "lastModified": 1645679155607.4084,
+      "status": "succeeded",
+      "haveCheckedForRerun": false,
+      "rerun": true,
+      "command": "build"
+    },
+    "packages/bodo/@bodo#build": {
+      "lastModified": 1645679229397.4075,
+      "status": "succeeded",
+      "haveCheckedForRerun": false,
+      "rerun": true,
+      "command": "build"
+    },
+    "packages/bodo#build": {
+      "lastModified": 1645679229397.4075,
+      "status": "succeeded",
+      "haveCheckedForRerun": false,
+      "rerun": true,
+      "command": "build"
+    },
+    "packages/import-glob#build": {
+      "lastModified": 1645679154864.0752,
+      "status": "succeeded",
+      "haveCheckedForRerun": false,
+      "rerun": true,
+      "command": "build"
+    },
+    "apps/webapp/client#build": {
+      "lastModified": 1645679351510.739,
+      "status": "succeeded",
+      "haveCheckedForRerun": false,
+      "rerun": true,
+      "command": "build"
+    },
+    "apps/webapp/server#build": {
+      "lastModified": 1645679156917.4084,
+      "status": "succeeded",
+      "haveCheckedForRerun": false,
+      "rerun": true,
+      "command": "build"
+    },
+    "packages/bodo/@bodo/packages/radio#build": {
+      "lastModified": 1645679155827.4084,
+      "status": "succeeded",
+      "haveCheckedForRerun": false,
+      "rerun": true,
+      "command": "build"
+    },
+    "packages/config#test": {
+      "lastModified": 1645685421264.137,
+      "status": "succeeded",
+      "haveCheckedForRerun": false,
+      "rerun": true,
+      "command": "build"
+    },
+    "packages/bodo/@bodo/packages/button#test": {
+      "lastModified": 1645685421260.8035,
+      "status": "succeeded",
+      "haveCheckedForRerun": false,
+      "rerun": true,
+      "command": "build"
+    },
+    "packages/bodo/@bodo/packages/checkbox#test": {
+      "lastModified": 1645685421264.137,
+      "status": "succeeded",
+      "haveCheckedForRerun": false,
+      "rerun": true,
+      "command": "build"
+    },
+    "packages/bodo/@bodo/packages/switch#test": {
+      "lastModified": 1645685421260.8035,
+      "status": "succeeded",
+      "haveCheckedForRerun": false,
+      "rerun": true,
+      "command": "build"
+    },
+    "packages/bodo/@bodo/packages/textfield#test": {
+      "lastModified": 1645685421260.8035,
+      "status": "succeeded",
+      "haveCheckedForRerun": false,
+      "rerun": true,
+      "command": "build"
+    },
+    "packages/bodo/@bodo#test": {
+      "lastModified": 1645685421264.137,
+      "status": "succeeded",
+      "haveCheckedForRerun": false,
+      "rerun": true,
+      "command": "build"
+    },
+    "packages/bodo#test": {
+      "lastModified": 1645685421264.137,
+      "status": "succeeded",
+      "haveCheckedForRerun": false,
+      "rerun": true,
+      "command": "build"
+    },
+    "packages/package-generator#build": {
+      "lastModified": 1646240435179.9966,
+      "status": "succeeded",
+      "haveCheckedForRerun": false,
+      "rerun": true,
+      "command": "build"
+    },
+    "packages/test-package#build": {
+      "lastModified": 1646243346383.2864,
+      "status": "succeeded",
+      "haveCheckedForRerun": false,
+      "rerun": true,
+      "command": "build"
+    },
+    "apps/www#build": {
+      "lastModified": 1648606448189.9976,
+      "status": "succeeded",
+      "haveCheckedForRerun": false,
+      "rerun": true,
+      "command": "build"
+    }
+  }
+}

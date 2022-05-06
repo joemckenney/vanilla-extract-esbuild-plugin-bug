@@ -1,0 +1,10 @@
+[34m@bodo/button:format: [0mcache hit, replaying output [2mb57fd301432b93e6[0m
+[34m@bodo/button:format: [0m.eslintrc.js 58ms
+[34m@bodo/button:format: [0m.prettierrc.js 6ms
+[34m@bodo/button:format: [0mjest.config.js 4ms
+[34m@bodo/button:format: [0mpackage.json 20ms
+[34m@bodo/button:format: [0msrc/index.css.ts 619ms
+[34m@bodo/button:format: [0msrc/index.example.md 47ms
+[34m@bodo/button:format: [0msrc/index.tsx 40ms
+[34m@bodo/button:format: [0mtsconfig.json 6ms
+[34m@bodo/button:format: [0mtsup.config.ts 12ms
