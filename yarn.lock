@@ -412,7 +412,7 @@ __metadata:
     "@typescript-eslint/eslint-plugin": 5.22.0
     "@typescript-eslint/parser": 5.22.0
     "@vanilla-extract/css": 1.7.0
-    "@vanilla-extract/esbuild-plugin": 2.0.3
+    "@vanilla-extract/esbuild-plugin": 2.0.4
     "@vanilla-extract/sprinkles": 1.4.0
     esbuild: 0.14.38
     esbuild-jest: 0.5.0
@@ -434,6 +434,7 @@ __metadata:
     "@typescript-eslint/eslint-plugin": 5.22.0
     "@typescript-eslint/parser": 5.22.0
     "@vanilla-extract/css": 1.7.0
+    "@vanilla-extract/esbuild-plugin": 2.0.4
     esbuild: 0.14.38
     esbuild-jest: 0.5.0
     eslint: 8.14.0
@@ -1178,18 +1179,18 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@vanilla-extract/esbuild-plugin@npm:2.0.3":
-  version: 2.0.3
-  resolution: "@vanilla-extract/esbuild-plugin@npm:2.0.3"
+"@vanilla-extract/esbuild-plugin@npm:2.0.4":
+  version: 2.0.4
+  resolution: "@vanilla-extract/esbuild-plugin@npm:2.0.4"
   dependencies:
-    "@vanilla-extract/integration": ^3.0.0
-  checksum: f0494eaa7c9ff9321fd8ab7792e8a7c1c353d53c62db200ecf6de02b72140b2dbe0a73c7cf428bc3fffa3be0bfd7adf15ffe4cb1100ce390fc977d6ae16f1a3e
+    "@vanilla-extract/integration": ^4.0.0
+  checksum: d950f5b3a9ff02a82e884a6bb7894d8e2fdc3a50e957319e74bcdce106e6c72279a96ecd41fa1f9c5b440320d0c71c67d7e3ae5198cf5d0499f7ba601ce7c56d
   languageName: node
   linkType: hard
 
-"@vanilla-extract/integration@npm:^3.0.0":
-  version: 3.0.1
-  resolution: "@vanilla-extract/integration@npm:3.0.1"
+"@vanilla-extract/integration@npm:^4.0.0":
+  version: 4.0.0
+  resolution: "@vanilla-extract/integration@npm:4.0.0"
   dependencies:
     "@vanilla-extract/css": ^1.6.8
     esbuild: ^0.11.16
@@ -1198,7 +1199,7 @@ __metadata:
     javascript-stringify: ^2.0.1
     lodash: ^4.17.21
     outdent: ^0.8.0
-  checksum: 0cbce0e5a96c5e48414e5c16c2f78d3e3de8b6a911d8a706bc5f03c8fdfc0a7ca1261eb5b322b8cf9821a4a2f6d7fe4d58456bef1fd6e29670a7851be6bb73f8
+  checksum: bea3f5fbb02d8c96a5be4a1d19f123d56e6d9ef539eb73f7434e04f61dadce38ef85f6c8c3bde445b60797086f10499f9b9620fa4ff7529d601817d5c117ef2c
   languageName: node
   linkType: hard
 

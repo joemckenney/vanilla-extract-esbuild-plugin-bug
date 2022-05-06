@@ -1,4 +1,4 @@
-[35m@bodo/button:build: [0mcache hit, replaying output [2mec4f6850c4a79cf0[0m
+[35m@bodo/button:build: [0mcache hit, replaying output [2m32796d78d879c8c5[0m
 [35m@bodo/button:build: [0mCLI Building entry: src/index.tsx
 [35m@bodo/button:build: [0mCLI Using tsconfig: tsconfig.json
 [35m@bodo/button:build: [0mCLI tsup v5.12.6
@@ -7,13 +7,13 @@
 [35m@bodo/button:build: [0mCLI Cleaning output folder
 [35m@bodo/button:build: [0mESM Build start
 [35m@bodo/button:build: [0mCJS Build start
-[35m@bodo/button:build: [0mESM ⚡️ Build success in 26ms
-[35m@bodo/button:build: [0mCJS ⚡️ Build success in 25ms
-[35m@bodo/button:build: [0mCJS dist/index.js      776.00 B
-[35m@bodo/button:build: [0mCJS dist/index.css     90.00 B
-[35m@bodo/button:build: [0mCJS dist/index.css.map 312.00 B
-[35m@bodo/button:build: [0mCJS dist/index.js.map  546.00 B
-[35m@bodo/button:build: [0mESM dist/index.mjs     149.00 B
-[35m@bodo/button:build: [0mESM dist/index.css     90.00 B
-[35m@bodo/button:build: [0mESM dist/index.mjs.map 532.00 B
-[35m@bodo/button:build: [0mESM dist/index.css.map 312.00 B
+[35m@bodo/button:build: [0mCJS ⚡️ Build success in 31ms
+[35m@bodo/button:build: [0mESM ⚡️ Build success in 33ms
+[35m@bodo/button:build: [0mCJS dist/index.js      778.00 B
+[35m@bodo/button:build: [0mCJS dist/index.css     92.00 B
+[35m@bodo/button:build: [0mCJS dist/index.js.map  539.00 B
+[35m@bodo/button:build: [0mCJS dist/index.css.map 305.00 B
+[35m@bodo/button:build: [0mESM dist/index.mjs     151.00 B
+[35m@bodo/button:build: [0mESM dist/index.css     92.00 B
+[35m@bodo/button:build: [0mESM dist/index.mjs.map 525.00 B
+[35m@bodo/button:build: [0mESM dist/index.css.map 305.00 B

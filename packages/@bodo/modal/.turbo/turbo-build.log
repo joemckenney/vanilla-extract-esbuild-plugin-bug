@@ -1,4 +1,4 @@
-[32m@bodo/modal:build: [0mcache hit, replaying output [2mcf3af90d80a0d2ec[0m
+[32m@bodo/modal:build: [0mcache hit, replaying output [2mbce573743cfc7bcc[0m
 [32m@bodo/modal:build: [0mCLI Building entry: src/index.tsx
 [32m@bodo/modal:build: [0mCLI Using tsconfig: tsconfig.json
 [32m@bodo/modal:build: [0mCLI tsup v5.12.6
@@ -7,13 +7,13 @@
 [32m@bodo/modal:build: [0mCLI Cleaning output folder
 [32m@bodo/modal:build: [0mESM Build start
 [32m@bodo/modal:build: [0mCJS Build start
-[32m@bodo/modal:build: [0mESM ⚡️ Build success in 28ms
-[32m@bodo/modal:build: [0mCJS ⚡️ Build success in 27ms
-[32m@bodo/modal:build: [0mESM dist/index.mjs     148.00 B
-[32m@bodo/modal:build: [0mESM dist/index.css     151.00 B
-[32m@bodo/modal:build: [0mESM dist/index.mjs.map 684.00 B
-[32m@bodo/modal:build: [0mESM dist/index.css.map 610.00 B
-[32m@bodo/modal:build: [0mCJS dist/index.js      774.00 B
-[32m@bodo/modal:build: [0mCJS dist/index.css     151.00 B
-[32m@bodo/modal:build: [0mCJS dist/index.js.map  698.00 B
-[32m@bodo/modal:build: [0mCJS dist/index.css.map 610.00 B
+[32m@bodo/modal:build: [0mESM ⚡️ Build success in 26ms
+[32m@bodo/modal:build: [0mCJS ⚡️ Build success in 25ms
+[32m@bodo/modal:build: [0mESM dist/index.css     153.00 B
+[32m@bodo/modal:build: [0mESM dist/index.mjs     150.00 B
+[32m@bodo/modal:build: [0mESM dist/index.mjs.map 674.00 B
+[32m@bodo/modal:build: [0mESM dist/index.css.map 600.00 B
+[32m@bodo/modal:build: [0mCJS dist/index.css     153.00 B
+[32m@bodo/modal:build: [0mCJS dist/index.js      776.00 B
+[32m@bodo/modal:build: [0mCJS dist/index.css.map 600.00 B
+[32m@bodo/modal:build: [0mCJS dist/index.js.map  688.00 B

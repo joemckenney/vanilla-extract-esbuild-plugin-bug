@@ -1,2 +1,2 @@
-import m from"react";var r="fh266q0";function f(){return m.createElement("div",{className:r})}export{f as Modal};
+import o from"react";var r="_1agqeum0";function l(){return o.createElement("div",{className:r})}export{l as Modal};
 //# sourceMappingURL=index.mjs.map
