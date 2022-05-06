@@ -6,7 +6,6 @@ node_modules
 !/.yarn/releases
 !/.yarn/sdks
 /.pnp.*
-dist/
 .turbo
 tsconfig.tsbuildinfo
 
